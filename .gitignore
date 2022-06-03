@@ -138,3 +138,30 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# папки со статикой и медиа
+# Static derictory
+yatube/posts/static/
+static/
+.static
+./ststic
+./static/
+STATIC/
+
+#media
+yatube/media/
+media/
+.media
+./media
+./media/
+./MEDIA/
+
+#visual c settings
+/.vscode
+.vscode
+.vscode/
+
+#PyCharm settings
+/.idea
+.idea
+.idea/
